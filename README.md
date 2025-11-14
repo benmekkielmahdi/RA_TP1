@@ -1,3 +1,11 @@
+#Demo
+
+
+https://github.com/user-attachments/assets/2d54e308-b901-48cd-8b9f-28b876205b9f
+
+Remarque : J'ai trouvé des problèmes dans le build de l'apk
+
+
 # 🌌 Projet AR — Système Solaire (Unity + Vuforia)
 
 Ce projet est une application de **Réalité Augmentée (AR)** développée avec **Unity** et **Vuforia**, permettant d’afficher des planètes du système solaire en 3D lorsqu’une image cible est détectée.
