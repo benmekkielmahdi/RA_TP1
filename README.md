@@ -1,9 +1,13 @@
-#Demo
+#Demo 1
 
 
 https://github.com/user-attachments/assets/2d54e308-b901-48cd-8b9f-28b876205b9f
 
-Remarque : J'ai trouvé des problèmes dans le build de l'apk
+#Demo 2 (Caméra téléphone) 
+
+
+
+https://github.com/user-attachments/assets/deaeaf5c-3abc-4afb-ab75-a9fed00b36d6
 
 
 # 🌌 Projet AR — Système Solaire (Unity + Vuforia)
